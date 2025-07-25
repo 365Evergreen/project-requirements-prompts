@@ -2,6 +2,7 @@
 
 The header should be full width and look similar to the below image 
 
+https://github.com/365Evergreen/project-requirements-prompts/blob/Raact/swa-intranet/assets/header.png
 
 ## Behaviour 
 
